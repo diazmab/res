@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Impact, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1 {
+    margin-top: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.my-image {
+    width: 250px;
+}
+.pt {
+    width: 250px;
+}
